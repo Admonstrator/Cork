@@ -5111,7 +5111,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Füge Apps zur Verwaltung hinzu"
+            "value" : "Apps durch Homebrew verwalten lassen"
           }
         },
         "en" : {
@@ -5345,7 +5345,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abbrechen und Massenverwaltung deaktivieren"
+            "value" : "Abbrechen und Verwaltung deaktivieren"
           }
         },
         "en" : {
@@ -6000,7 +6000,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "im Terminal beenden"
+            "value" : "Manuell abschließen"
           }
         },
         "en" : {
@@ -6669,7 +6669,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bist du sicher, dass du %@ löschen möchtest?"
+            "value" : "Bist du sicher, dass Du %@ löschen möchtest?"
           }
         },
         "en" : {
@@ -8013,7 +8013,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terminal Ausgang Zeigen"
+            "value" : "Terminalausgabe zeigen"
           }
         },
         "en" : {
@@ -8171,7 +8171,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bist du sicher, dass du %@ deinstallieren möchtest?"
+            "value" : "Bist du sicher, dass Du %@ deinstallieren möchtest?"
           }
         },
         "en" : {
@@ -8388,7 +8388,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktualisieren Sie Homebrew über das Terminal."
+            "value" : "Aktualisiere Homebrew über das Terminal."
           }
         },
         "en" : {
@@ -8546,7 +8546,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Aktion kann nicht rückgängig gemacht werden"
+            "value" : "Diese Aktion kann nicht rückgängig gemacht werden!"
           }
         },
         "en" : {
@@ -9650,7 +9650,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dieses Programm ist bereits im Ordner „Anwendungen“ vorhanden.\nDeinstallieren Sie es und versuchen Sie es erneut."
+            "value" : "Dieses Programm ist bereits im Ordner „Anwendungen“ vorhanden.\nEntferne es und versuche es dann erneut."
           }
         },
         "en" : {
@@ -10142,7 +10142,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebrew hat die Installation dieses Pakets beendet, \nbevor sie ordnungsgemäß gestartet wurde.\nDie Ausgabe des Installationsbefehls finden Sie unten."
+            "value" : "Homebrew hat die Installation des Pakets frühzeitig abgebrochen. Prüfe die untenstehende Ausgabe des Befehls auf Fehler:"
           }
         },
         "en" : {
@@ -10212,7 +10212,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die Installation des Programms wurde unerwartet beendet."
+            "value" : "Die Installation des Programms wurde unerwartet beendet!"
           }
         },
         "en" : {
@@ -10986,7 +10986,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dieses Paket musst du mit Hilfe des Terminals Installieren.\nBenutze dafür den unten stehenden Befehl."
+            "value" : "Dieses Paket musst Du mithilfe des Terminals Installieren.\nBenutze dafür den folgenden Befehl:"
           }
         },
         "en" : {
@@ -12403,7 +12403,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Installiere Pakete"
+            "value" : "Installiere neue Pakete"
           }
         },
         "en" : {
@@ -13018,7 +13018,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sie müssen dieses Paket über das Terminal deinstallieren.\nVerwenden Sie den folgenden Befehl."
+            "value" : "Du musst dieses Paket über das Terminal deinstallieren.\nVerwende dafür den folgenden Befehl:"
           }
         },
         "en" : {
@@ -13811,7 +13811,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vergewissere dich, dass du den Namen richtig geschrieben hast"
+            "value" : "Vergewissere dich, dass Du den Namen richtig geschrieben hast"
           }
         },
         "en" : {
@@ -14605,7 +14605,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klicke auf \"Terminal öffnen\"\nBenutze ⌘+V um den Befehl einzufügen und drücke ↩ (Enter) um den Befehl auszuführen\nFolge den Anweisungen um %@ zu Installieren. Anschließend kannst du diesen Dialog schließen."
+            "value" : "Klicke auf \"Terminal öffnen\"\nBenutze ⌘+V um den Befehl einzufügen und drücke ↩ (Enter) um den Befehl auszuführen\nFolge den Anweisungen um %@ zu installieren. Anschließend kannst Du diesen Dialog schließen."
           }
         },
         "en" : {
@@ -14693,7 +14693,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versuchen Sie, nach einem anderen Paket zu suchen."
+            "value" : "Versuche nach einem anderen Paket zu suchen."
           }
         },
         "en" : {
@@ -14757,7 +14757,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klicke unten auf „Terminal öffnen“.\nVerwende ⌘+V, um den Befehl einzufügen, und drücke dann ↩ (Eingabe), um den Befehl auszuführen\nBefolge die Anweisungen zur Deinstallation von %@, kehre zu Cork zurück und schließe dieses Dialogfeld"
+            "value" : "Klicke auf „Terminal öffnen“.\nVerwende ⌘+V, um den Befehl einzufügen, und drücke dann ↩ (Eingabe), um den Befehl auszuführen\nFolge den Anweisungen um  %@ zu deinstallieren. Anschließend kannst Du diesen Dialog schließen."
           }
         },
         "en" : {
@@ -15136,7 +15136,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versuchen Sie, Cork neu zu starten. Wenn das Problem weiterhin besteht, löschen Sie die Cork-Metadaten."
+            "value" : "Versuche Cork neu zu starten. Wenn das Problem weiterhin besteht, lösche bitte die Cork-Metadaten."
           }
         },
         "en" : {
@@ -17093,7 +17093,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ein schwerwiegender Fehler ist während der Installation aufgetreten"
+            "value" : "Während der Installation ist ein schwerwiegender Fehler aufgetreten!"
           }
         },
         "en" : {
@@ -17609,7 +17609,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ihr Mac ist nicht mit dem Internet verbunden. Überprüfen Sie Ihre Interneteinstellungen."
+            "value" : "Dein Mac ist nicht mit dem Internet verbunden. Überprüfen Deine Interneteinstellungen."
           }
         },
         "en" : {
@@ -17749,7 +17749,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut. Alternativ kann es sein, dass der Autorisierungsserver derzeit nicht verfügbar ist."
+            "value" : "Überprüfe Deine Internetverbindung und versuche es erneut. Möglicherweise besteht auch gerade ein Problem mit den Cork-Servern."
           }
         },
         "en" : {
@@ -18288,7 +18288,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Die Datei, aus der du eine Wiederherstellung versucht hast, hat nicht die richtige Struktur"
+            "value" : "Die Datei, aus der Du eine Wiederherstellung versucht hast, hat nicht die richtige Struktur"
           }
         },
         "en" : {
@@ -18640,7 +18640,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du hast noch Pakete von %@\n installiert. Deinstalliere diese und versuche es erneut"
+            "value" : "Du hast noch Pakete von %@\n installiert. Deinstalliere diese zuerst und versuche es erneut"
           }
         },
         "en" : {
@@ -19433,7 +19433,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Starten Sie Cork neu, und wenn das Problem weiterhin besteht, installieren Sie es neu"
+            "value" : "Bitte starte Cork neu. Sollte das Problem weiterhin bestehen, installiere Cork neu."
           }
         },
         "en" : {
@@ -26754,7 +26754,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suchen Sie nach Updates für installierte Pakete."
+            "value" : "Suche nach Updates für installierte Pakete."
           }
         },
         "en" : {
@@ -27714,7 +27714,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Email mit der du Cork gekauft hast:"
+            "value" : "Email mit der Du Cork gekauft hast:"
           }
         },
         "en" : {
@@ -27978,7 +27978,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du kannst Cork über die Schaltfläche unten kaufen oder die Webseite [website](https://corkmac.app) besuchen.\nBist du nicht sicher ob Cork das richtige für dich ist? Probiere die Demo, welche auf 7 Tage begrenzt ist."
+            "value" : "Du kannst Cork über die Schaltfläche unten kaufen oder die Webseite [website](https://corkmac.app) besuchen.\nDu bist noch nicht sicher, ob Cork das Richtige für Dich ist? Teste Cork 7 Tage im vollen Funktionsumfang!"
           }
         },
         "en" : {
@@ -28242,7 +28242,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wenn du die Entwicklung meiner Anwendungen unterstützen möchtest, könntest du [Cork kaufen] (https://corkmac.app)"
+            "value" : "Wenn Du die Entwicklung meiner Anwendungen unterstützen möchtest, könntest Du [Cork kaufen] (https://corkmac.app)"
           }
         },
         "en" : {
@@ -31703,7 +31703,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alle ausgewählten Apps wurden der Homebrew-Verwaltung hinzugefügt"
+            "value" : "Alle ausgewählten Apps werden zukünftig durch Homebrew verwaltet."
           }
         },
         "en" : {
@@ -31721,7 +31721,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du kannst diese Apps nun über Homebrew aktualisieren"
+            "value" : "Du kannst diese Apps nun über Homebrew aktualisieren."
           }
         },
         "en" : {
@@ -31757,7 +31757,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einige Apps wurden erfolgreich der Homebrew-Verwaltung hinzugefügt, allerdings sind Fehler aufgetreten. Schaue unten für weitere Informationen."
+            "value" : "Einige Apps wurden erfolgreich der Homebrew-Verwaltung hinzugefügt, bei anderen sind Fehler aufgetreten. Fehlerdetails findest Du unten:"
           }
         },
         "en" : {
@@ -31775,7 +31775,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebrew-Verwaltung hinzufügen"
+            "value" : "Apps zur Verwaltung hinzufügen"
           }
         },
         "en" : {
@@ -33040,7 +33040,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Führen Sie Homebrew-Bereinigungsaufgaben durch"
+            "value" : "Homebrew-Wartung durchführen"
           }
         },
         "en" : {
@@ -33715,7 +33715,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wartung durchführen…"
+            "value" : "Wartung durchführen …"
           }
         },
         "en" : {
@@ -37869,7 +37869,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du kannst dein Erlebnis jederzeit in den Einstellungen anpassen"
+            "value" : "Du kannst Dein Erlebnis jederzeit in den Einstellungen anpassen"
           }
         },
         "en" : {
@@ -38323,7 +38323,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diese Aktion kann nicht rückgängig gemacht werden"
+            "value" : "Diese Aktion kann nicht rückgängig gemacht werden!"
           }
         },
         "en" : {
@@ -38341,7 +38341,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bist Du sicher, dass Du %lld Deiner Apps in die Homebrew-Verwaltung übernehmen möchtest?"
+            "value" : "Bist Du sicher, dass %lld Deiner Apps zukünftig durch Homebrew verwaltet werden sollen?"
           }
         },
         "en" : {
@@ -45193,7 +45193,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Um die Dienste nutzen zu können, aktualisieren Sie Ihre Homebrew-Installation, indem Sie auf die Schaltfläche unten klicken.\nWenn das nicht funktioniert, führen Sie die Aktualisierung über das Terminal durch."
+            "value" : "Um die Dienste nutzen zu können, aktualisiere Deine Homebrew-Installation, indem Du auf die Schaltfläche unten klickst.\nWenn das nicht funktioniert, führe die Aktualisierung über das Terminal durch."
           }
         },
         "en" : {
@@ -46348,7 +46348,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Benutzerdefinierte Speicherorte für Homebrew werden nicht offiziell unterstützt. Wenn du einen benutzerdefinierten Speicherort gewählt hast, wirst du keinerlei Kundenbetreuung für Cork oder Homebrew erhalten. Falls du einen benutzerdefinierten Speicherort für Homebrew wählst, bist du selbst für die Wartung deiner Homebrew-Installation verantwortlich."
+            "value" : "Benutzerdefinierte Speicherorte für Homebrew werden nicht offiziell unterstützt. Wenn Du einen benutzerdefinierten Speicherort gewählt hast, wirst Du keinerlei Kundenbetreuung für Cork oder Homebrew erhalten. Falls Du einen benutzerdefinierten Speicherort für Homebrew wählst, bist Du selbst für die Wartung deiner Homebrew-Installation verantwortlich."
           }
         },
         "en" : {
@@ -46436,7 +46436,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bist du sicher, dass du einen benutzerdefinierten Homebrew Speicherort setzen möchtest?"
+            "value" : "Bist Du sicher, dass Du einen benutzerdefinierten Homebrew Speicherort setzen möchtest?"
           }
         },
         "en" : {
@@ -47122,7 +47122,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Überprüfen Sie streng auf Homebrew-Fehler."
+            "value" : "Überprüfe explizit auf Homebrew-Fehler."
           }
         },
         "en" : {
@@ -47364,7 +47364,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suche externe Apps, die der Homebrew-Verwaltung hinzugefügt werden können"
+            "value" : "Suche externe Apps, die zukünftig durch Homebrew verwaltet werden könnten"
           }
         },
         "en" : {
@@ -47741,7 +47741,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Holen Sie sich Top-Pakete für:"
+            "value" : "Hole Dir Top-Pakete für:"
           }
         },
         "en" : {
@@ -52052,7 +52052,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bist du sicher, dass du die automatische Paketbereinigung deaktivieren möchtest?"
+            "value" : "Bist Du sicher, dass Du die automatische Paketbereinigung deaktivieren möchtest?"
           }
         },
         "en" : {
@@ -52658,7 +52658,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Durch das Bereinigen können anderen Pakete beschädigt werden. Bist du sicher, dass du fortfahren möchtest?"
+            "value" : "Durch das Bereinigen können anderen Pakete beschädigt werden. Bist Du sicher, dass du fortfahren möchtest?"
           }
         },
         "en" : {
@@ -53188,7 +53188,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Echtzeit Ausgabe anzeigen"
+            "value" : "Echtzeit-Ausgabe anzeigen"
           }
         },
         "en" : {
@@ -55056,7 +55056,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wie möchtest du Cork erleben"
+            "value" : "Wie möchtest Du Cork erleben"
           }
         },
         "en" : {
@@ -56553,7 +56553,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebrew sammelt keine Daten darüber wie du es nutzt"
+            "value" : "Homebrew sammelt keine Daten darüber wie Du es nutzt"
           }
         },
         "en" : {
@@ -56729,7 +56729,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Homebrew sammelt verschiedene anonymisierte Daten, z.B. welche Pakete du installiert hast"
+            "value" : "Homebrew sammelt verschiedene anonymisierte Daten, z.B. welche Pakete Du installiert hast"
           }
         },
         "en" : {
@@ -57883,7 +57883,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formulae sind Pakete, die du über ein Terminal verwendest"
+            "value" : "Formulae sind Pakete, die Du über ein Terminal verwendest"
           }
         },
         "en" : {
@@ -58130,7 +58130,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Brew Wartung…"
+            "value" : "Wartungsaufgaben"
           }
         },
         "en" : {
@@ -59676,7 +59676,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Paketaktualisierungen wird gesucht…"
+            "value" : "Suche nach Paketaktualisierungen …"
           }
         },
         "en" : {
@@ -60390,7 +60390,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nachdem Sie auf „Terminal öffnen“ geklickt haben, fügen Sie mit ⌘+V den von Cork kopierten Befehl ein und drücken Sie die Eingabetaste (↩).\nWenn kein Befehl kopiert wurde, geben Sie den Befehl „brew update“ ein und drücken Sie die Eingabetaste (↩)."
+            "value" : "Nachdem Du auf „Terminal öffnen“ geklickt hast, füge mit ⌘+V den von Cork kopierten Befehl ein und drücke die Eingabetaste (↩).\nWenn kein Befehl kopiert wurde, gib den Befehl „brew update“ ein und drücke die Eingabetaste (↩)."
           }
         },
         "en" : {
@@ -62292,7 +62292,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktualisiere..."
+            "value" : "Aktualisiere ..."
           }
         },
         "en" : {
@@ -62468,7 +62468,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bei der Aktualisierung traten einige Fehler auf.\nWeitere Informationen findest du unten"
+            "value" : "Bei der Aktualisierung traten einige Fehler auf.\nWeitere Informationen findest Du unten:"
           }
         },
         "en" : {
@@ -62632,7 +62632,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einige Ihrer Pakete können nur über das Terminal aktualisiert werden.\nKlicken Sie unten auf „Im Terminal beenden“.\nFügen Sie den Befehl mit ⌘+V ein und drücken Sie dann ↩ (Return), um den Befehl auszuführen. Befolgen Sie anschließend die Anweisungen.\nKehren Sie nach Abschluss des Befehls zu Cork zurück."
+            "value" : "Einige Ihrer Pakete können nur über das Terminal aktualisiert werden.\nKlicke auf „Manuell abschließen“, um das Terminal zu öffnen. \nFüge den Befehl mit ⌘+V ein und drücken dann ↩ (Return), um den Befehl auszuführen. Befolge anschließend die Anweisungen.\nKehre nach Abschluss des Befehls zu Cork zurück."
           }
         },
         "en" : {
@@ -62972,7 +62972,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ich weiß nicht was du getant hast, damit das passiert"
+            "value" : "Ich weiß nicht, was Du getan hast, damit das passiert"
           }
         },
         "en" : {
@@ -63300,7 +63300,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Du bist auf dem neusten Stand"
+            "value" : "Alles ist auf dem neusten Stand"
           }
         },
         "en" : {
